@@ -1,3 +1,5 @@
+
+<!DOCTYPE html>
 <html>
     <head>
         <title>CSCE 190: Michael Yang</title>
@@ -47,39 +49,6 @@
                 <a href="Files/combine.pdf"><h2>Storyboard: 4 stories for an app</h2></a>
                 <p>
                     4 different stories of where a PlanMe app can help people in need of schedule planning.
-                </p>
-            </section>
-        </section>
-
-        <!--Sketches Assigment-->
-        <section class="assignment">
-            <a href="FinalApp.pdf"><img src="FinalApp.png"></a>
-            <section class="ass-details">
-                <a href="FinalApp.pdf"><h2>Sketch: Plan Me</h2></a>
-                <p>
-                    A sketch of potential app solutions for the PlanMe App
-                </p>
-            </section>
-        </section>
-
-        <!--Usabillity Testing Script Assigment-->
-        <section class="assignment">
-            <a href="Files/Usability-Testing.pdf"><img src="Files/Usability-Testing.pdf"></a>
-            <section class="ass-details">
-                <a href="Files/Usability-Testing.pdf"><h2>Usability Testing: PlanMe App</h2></a>
-                <p>
-                    A scenario and test with the outcomes of the PlanMe App.
-                </p>
-            </section>
-        </section>
-
-        <!--Low Fi Prototype Assigment-->
-        <section class="assignment">
-            <a href="Files/PlanMe-html/index.html"><img src="images/Low-fi.png"></a>
-            <section class="ass-details">
-                <a href="Files/PlanMe-html/index.html"><h2>Usability Testing: PlanMe App</h2></a>
-                <p>
-                    A scenario and test with the outcomes of the PlanMe App.
                 </p>
             </section>
         </section>
